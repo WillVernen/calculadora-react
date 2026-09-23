@@ -2,7 +2,7 @@
 
 Uma calculadora simples e funcional desenvolvida com React e Styled Components como parte de um desafio de front-end.
 
-![Preview da calculadora](./preview.svg)
+![Preview da calculadora](./preview.png)
 
 ## ✨ Funcionalidades
 
