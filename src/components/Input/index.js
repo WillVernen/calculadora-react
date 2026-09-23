@@ -1,12 +1,11 @@
-
 import { InputContainer } from './styles';
 
-const Input = ({value}) => {
+const Input = ({ value }) => {
   return (
     <InputContainer>
-      <input disabled value={value}/>
+      <input aria-label="display" value={value} readOnly />
     </InputContainer>
   );
-}
+};
 
 export default Input;
