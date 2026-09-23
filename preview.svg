@@ -1,0 +1,105 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E5E7EB"/>
+      <stop offset="1" stop-color="#D1D5DB"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F9FAFB"/>
+      <stop offset="1" stop-color="#E5E7EB"/>
+    </linearGradient>
+    <linearGradient id="display" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g transform="translate(300 110)">
+    <rect width="600" height="680" rx="38" fill="url(#panel)" stroke="#CBD5E1" stroke-width="2"/>
+
+    <rect x="52" y="58" width="496" height="140" rx="20" fill="url(#display)"/>
+    <text x="540" y="150" text-anchor="end" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#F8FAFC">16</text>
+
+    <g transform="translate(52 232)">
+      <g>
+        <rect x="0" y="0" width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">7</text>
+      </g>
+      <g transform="translate(120 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">8</text>
+      </g>
+      <g transform="translate(240 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">9</text>
+      </g>
+      <g transform="translate(360 0)">
+        <rect width="110" height="90" rx="18" fill="url(#accent)"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">÷</text>
+      </g>
+    </g>
+
+    <g transform="translate(52 338)">
+      <g>
+        <rect x="0" y="0" width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">4</text>
+      </g>
+      <g transform="translate(120 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">5</text>
+      </g>
+      <g transform="translate(240 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">6</text>
+      </g>
+      <g transform="translate(360 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">×</text>
+      </g>
+    </g>
+
+    <g transform="translate(52 444)">
+      <g>
+        <rect x="0" y="0" width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">1</text>
+      </g>
+      <g transform="translate(120 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">2</text>
+      </g>
+      <g transform="translate(240 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">3</text>
+      </g>
+      <g transform="translate(360 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">-</text>
+      </g>
+    </g>
+
+    <g transform="translate(52 550)">
+      <g>
+        <rect x="0" y="0" width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">0</text>
+      </g>
+      <g transform="translate(120 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">C</text>
+      </g>
+      <g transform="translate(240 0)">
+        <rect width="110" height="90" rx="18" fill="#F3F4F6"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0F172A">+</text>
+      </g>
+      <g transform="translate(360 0)">
+        <rect width="110" height="90" rx="18" fill="#10B981"/>
+        <text x="55" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#FFFFFF">=</text>
+      </g>
+    </g>
+  </g>
+</svg>
